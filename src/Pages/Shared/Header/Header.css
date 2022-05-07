@@ -1,3 +1,20 @@
 .main-menu Nav.Link {
-    color: black;
+    color: #157347;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #157347;
+}
+.user-area{
+    margin-left: 30px;
+}
+.user-area img{
+    margin-right: 10px;
+}
+.user-area button{
+    text-transform: uppercase;
+    border: 1px solid #157347;
+    padding: 5px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    color: #555;
 }
