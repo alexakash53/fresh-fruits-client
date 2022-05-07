@@ -1,0 +1,156 @@
+[
+    {
+        "id": "01",
+        "name": "Banana (Kola)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Elon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/0D4dNpc/kola.png"
+    },
+    
+    {
+        "id": "02",
+        "name": "Watermelon (Tormuj)",
+        "quantity": "142 kg",
+        "price": "228 Tk",
+        "supplier": "Monib Bormon",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/dpPT19Y/tormuj.png"
+    },
+
+    {
+        "id": "03",
+        "name": "Green Coconut (Daab)",
+        "quantity": "400 Pis",
+        "price": "128 Tk",
+        "supplier": "Elon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/XVCshk5/dab.png"
+    },
+
+    {
+        "id": "04",
+        "name": "Pomegranate (Dalim)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Joy Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/QXFjk3Y/dalim.png"
+    },
+
+    {
+        "id": "05",
+        "name": "Pineapple (Anaros)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Messi Lio",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/C7ZTwGd/anaros.png"
+    },
+
+    {
+        "id": "06",
+        "name": "Dragon Fruit (Imported)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Suvo Marak",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/dfCVtsS/dragon.png"
+    },
+
+    {
+        "id": "07",
+        "name": "Orange (Komola)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Andreo Sangma",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/TRVrzz3/komola.png"
+    },
+
+    {
+        "id": "08",
+        "name": "Wood Apple (Bel)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Jason Smith",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/VVVwFxQ/bel.png"
+    },
+
+    {
+        "id": "09",
+        "name": "Coconut (Narikel)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Mosa Masi",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/d7CSjDh/narikel.png"
+    },
+
+    {
+        "id": "10",
+        "name": "Pear (Nashpati)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Ripon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/bXy9Lfc/nashpati.png"
+    },
+
+    {
+        "id": "11",
+        "name": "Grapes (Angur)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Elon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/VQrCHrs/angur.png"
+    },
+
+    {
+        "id": "12",
+        "name": "Guyava (Peyara)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Sumi Sultana",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/nPjvH1f/peyara.png"
+    },
+
+    {
+        "id": "13",
+        "name": "White Pera (Nashpati)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Elon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/qxQ65PG/sada-nashpati.png"
+    },
+
+    {
+        "id": "14",
+        "name": "Green (Apple)",
+        "quantity": "142 kg",
+        "price": "128 Tk",
+        "supplier": "Elon Musk",
+        "sold": "0 Pis",
+        "details": "Banana is the most popular fresh fruit in all over the world. It has lots of variety.Banana is one of them.Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood.",
+        "img": "https://i.ibb.co/87hTmBS/sobuj-apple.png"
+    }
+
+]

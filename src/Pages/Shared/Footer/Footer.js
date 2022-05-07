@@ -1,10 +1,12 @@
 import React from 'react';
-
+import './Footer.css'
 const Footer = () => {
+    const today = new Date();
+    const year = today.getFullYear();
     return (
-        <div>
-            <h2>this is foooter</h2>
-        </div>
+        <footer className='text-center p-4 bg-dark'>
+            <p><small>All Rights Reserved By Fresh Fruits &copy; {year} </small></p>
+        </footer>
     );
 };
 
