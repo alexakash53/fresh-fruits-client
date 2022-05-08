@@ -1,6 +1,8 @@
 .section-title{
     text-transform: uppercase;
     font-weight: 600;
+    color: #157347;
+    margin-bottom: 20px;
 }
 .section-title p{
     color:#666;

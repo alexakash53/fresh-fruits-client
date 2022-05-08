@@ -1,0 +1,35 @@
+.product{
+    border: 1px solid #157347;
+    border-radius: 50px 0 50px 0;
+    padding: 12px;
+    text-align: justify;
+    margin: 15px;
+}
+.product img{
+    border-radius: 50px 0 50px 0;
+}
+.product h2{
+    font-size: 24px;
+}
+.btn{
+    border: 1px solid #157347;
+    color: #555;
+}
+
+/* Product details start */
+.product-img{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.product-details{
+    text-align: left;
+}
+.product-details{}
+.product-details h4{
+    font-weight: 600;
+}
+.product-details span{
+    color: #555;
+    font-size: 18px;
+}

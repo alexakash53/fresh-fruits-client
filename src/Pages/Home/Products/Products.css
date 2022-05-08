@@ -1,0 +1,41 @@
+.products{
+    border-radius: 50px;
+    padding: 80px 0;
+}
+#products h1{
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.inv-btn{
+    margin-top: 20px;
+    display: inline;
+    font-family: 'Dosis', sans-serif;
+    border: 1px solid #157347;
+    border-radius: 50px;
+    text-transform: uppercase;
+    outline: none;
+    background: none;
+    padding: 15px 40px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+/* make services responsive */
+@media only screen and (max-width:576px) {
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 992px) {
+    .products-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

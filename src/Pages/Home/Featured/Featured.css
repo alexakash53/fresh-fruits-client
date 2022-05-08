@@ -23,9 +23,9 @@
 }
 .btn{
     font-family: 'Dosis', sans-serif;
-    border: 1px solid #FF3142;
+    border: 1px solid #157347;
+    border-radius: 0px 0 50px 0; 
     text-transform: uppercase;
-    border-radius: 30px;
     outline: none;
     background: none;
     padding: 15px 30px;
@@ -35,7 +35,7 @@
     cursor: pointer;
 }
 .btn-black{
-    border: 1px solid #222;
+    border: 1px solid #FF3142;
     transition: ease 0.5s;
 }
 .btn-black:hover{
