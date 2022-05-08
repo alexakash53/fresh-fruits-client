@@ -1,0 +1,20 @@
+.blog-area{
+    margin-top: 50px;
+}
+.medium-blog{
+    padding: 30px;
+}
+.medium-blog h2{
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid #555;
+}
+.medium-blog p{
+    color: #333;
+    font-size: 18px;
+    line-height: 2.0;
+    text-align: justify;
+}
