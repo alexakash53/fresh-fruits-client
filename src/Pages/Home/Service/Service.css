@@ -1,0 +1,30 @@
+.section-title{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.section-title p{
+    color:#666;
+    font-size: 15px;
+}
+.single-service{
+    text-transform: uppercase;
+    padding: 5px;
+
+}
+.single-service .icon{
+    display: inline-block;  
+    padding: 20px;
+    font-size: 90px;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+.single-service h2{
+    font-size: 25px;
+    margin: 18px 0;
+}
+.single-service p{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #555;
+}
