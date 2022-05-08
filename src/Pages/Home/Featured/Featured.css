@@ -1,0 +1,49 @@
+.feature-area{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text-feature{
+    text-align: left;
+    padding-right: 50px;
+}
+.text-feature h2{
+    color: #FF3142;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+.text-feature p{
+    font-size: 20px;
+    color: #555;
+    line-height: 1.5;
+}
+.text-feature span{
+    color: #157347;
+}
+.btn{
+    font-family: 'Dosis', sans-serif;
+    border: 1px solid #FF3142;
+    text-transform: uppercase;
+    border-radius: 30px;
+    outline: none;
+    background: none;
+    padding: 15px 30px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.btn-black{
+    border: 1px solid #222;
+    transition: ease 0.5s;
+}
+.btn-black:hover{
+    border: 1px solid #FF3142;
+    background: #FF3142;
+    color: #fff;
+}
+.img-feature img{
+    width: 600px;
+    height: 600px;
+}
