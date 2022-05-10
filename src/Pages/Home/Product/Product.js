@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import './Product.css';
 
 const Product = ({Product}) => {
-    const {id, name, img, price, quantity} = Product;
+    const {_id, name, img, price, quantity} = Product;
     console.log(Product)
     const navigate = useNavigate();
 
@@ -16,7 +16,7 @@ const Product = ({Product}) => {
             <h2>{name}</h2>
             <p>Price: {price}</p>
             <p><small>{quantity}</small></p>
-            <Link to="/product-details"><button className='btn'>UPDATE PRODUCT</button></Link>
+            <Link to={`/product-details/${_id}`}><button className='btn'>UPDATE PRODUCT</button></Link>
         </div>
     );
 };

@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAKJ5QQ6eVue_Kv0n6QujblF34rxKTXkqk",
-  authDomain: "alex-akash-photography.firebaseapp.com",
-  projectId: "alex-akash-photography",
-  storageBucket: "alex-akash-photography.appspot.com",
-  messagingSenderId: "514813720283",
-  appId: "1:514813720283:web:6946ec18eacddc132d3efe"
+  apiKey: "AIzaSyDFIGoVKr5SROJJziR6vbmT_OiRiOQkMpY",
+  authDomain: "fresh-fruits-inventory.firebaseapp.com",
+  projectId: "fresh-fruits-inventory",
+  storageBucket: "fresh-fruits-inventory.appspot.com",
+  messagingSenderId: "596306707238",
+  appId: "1:596306707238:web:7c06706f626b39722237e7"
 };
 
 // Initialize Firebase
