@@ -22,8 +22,9 @@ const Header = () => {
                     </Navbar.Brand>
                     <Nav className="me-r text-uppercase fs-6 fw-bold">
                     <Nav.Link as={Link} to="/">Home</Nav.Link>
-                    <Nav.Link as={Link} to="features">Features</Nav.Link>
                     <Nav.Link as={Link} to="inventory">Inventory</Nav.Link>
+                    <Nav.Link as={Link} to="my-item">My Items</Nav.Link>
+                    <Nav.Link as={Link} to="add-item">Add Items</Nav.Link>
                     <Nav.Link as={Link} to="fruits">Fresh Fruits</Nav.Link>
                     <Nav.Link as={Link} to="blog">Blog</Nav.Link>
                     <Nav.Link as={Link} to="about">About</Nav.Link>

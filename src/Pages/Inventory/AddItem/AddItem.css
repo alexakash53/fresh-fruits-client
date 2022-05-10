@@ -1,0 +1,20 @@
+input,textarea{
+    padding: 10px 20px;
+    border: 1px solid #157347;
+    border-radius: 10px;
+}
+.item-btn{
+        background: #157347;
+        color: #fff;
+        margin-top: 20px;
+        display: inline;
+        font-family: 'Dosis', sans-serif;
+        border-radius: 10px;
+        text-transform: uppercase;
+        outline: none;
+        padding: 10px 40px;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        cursor: pointer;
+}

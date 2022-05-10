@@ -1,4 +1,5 @@
 import React from 'react';
+import Register from '../../Login/Register/Register';
 import './Product.css'
 
 const ProductDetails = () => {
@@ -24,6 +25,10 @@ const ProductDetails = () => {
                             <h4>Price : <span>7736</span></h4>
                             <h4>Stock Quantity : <span>432</span></h4>
                             <h4>Sold : <span>37</span></h4>
+                        </div>
+                        <div className="details-info">
+                            <button className='details-btn me-4'>Deleverd</button>
+                            <input className='mb-2' placeholder='Quantity' type="number" {...Register("Quantity")} /> <button className='details-btn'>Stock Update</button> 
                         </div>
                     </div>
                 </div>
