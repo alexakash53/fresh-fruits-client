@@ -13,6 +13,7 @@
     grid-gap: 20px;
 }
 .inv-btn{
+    text-decoration: none;
     margin-top: 20px;
     display: inline;
     font-family: 'Dosis', sans-serif;

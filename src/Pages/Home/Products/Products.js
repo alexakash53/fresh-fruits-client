@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import Product from '../Product/Product';
 import './Products.css';
 
@@ -7,7 +8,7 @@ const Products = () => {
     const [products, setProducts] = useState([]);
 
     useEffect( ()=>{
-        fetch('http://localhost:5000/products')
+        fetch('https://immense-mountain-97741.herokuapp.com/products')
         .then(res => res.json())
         .then(data => setProducts(data));
     }, [])
@@ -26,7 +27,7 @@ const Products = () => {
             }
             </div>
             </div>
-            <button className='inv-btn'>Manage inventory</button>
+            <Link to={'/inventory'}><button className='inv-btn'>Manage inventory</button></Link>
         </div>
     );
 };

@@ -12,11 +12,13 @@ const Product = ({Product}) => {
     // }
     return (
         <div className='product'>
-            <img className='w-60' src={img} alt="" />
-            <h2>{name}</h2>
-            <p>Price: {price}</p>
-            <p><small>{quantity}</small></p>
-            <Link to={`/product-details/${_id}`}><button className='btn'>UPDATE PRODUCT</button></Link>
+            <img src={img} alt="" />
+            <div className="product-info">
+                <h2>{name}</h2>
+                <p>Price: {price} Tk</p>
+                <p><small>Quantity: {quantity}</small></p>
+                <Link to={`/product-details/${_id}`}><button className='btn'>UPDATE PRODUCT</button></Link>
+            </div>
         </div>
     );
 };

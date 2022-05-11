@@ -2,11 +2,16 @@
     border: 1px solid #157347;
     border-radius: 50px 0 50px 0;
     padding: 12px;
-    text-align: justify;
+    /* text-align: justify; */
     margin: 15px;
+}
+.product-info{
+    text-align: justify;
 }
 .product img{
     border-radius: 50px 0 50px 0;
+    height: 250px;
+    width: 250px;
 }
 .product h2{
     font-size: 24px;
