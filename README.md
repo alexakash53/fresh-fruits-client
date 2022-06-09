@@ -1,6 +1,8 @@
 ## Fresh inventory Project
 
-live site : 
+live site : https://fresh-fruits-inventory.web.app/
+
+server side code : https://github.com/alexakash53/fresh-fruits-server
 
 ## Technology
 * React
